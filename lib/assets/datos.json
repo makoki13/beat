@@ -1,0 +1,913 @@
+{
+    "grupos": [
+        {
+            "ordinal": 1,
+            "titulo": "Before",
+            "leyenda": "Recordings 1957-1962",
+            "subcapitulos": [
+                {
+                    "ordinal": 1,
+                    "indice": "57",
+                    "titulo": "Molyneux Tapes",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Putting On The Style",
+                            "items" : [
+                                {
+                                    "ordinal": 1,                                
+                                    "rec": "M",
+                                    "origen": "Molyneux Tape",
+                                    "publicaciones": [
+                                        {
+                                            "ordinal": 1,
+                                            "fuente": [],
+                                            "soporte": "KKAK",
+                                            "duracion": "0:51"
+                                        }
+                                    ]                                    
+                                },
+                                {
+                                    "ordinal": 2,                                
+                                    "rec": "M",
+                                    "origen": "Molyneux Tape",
+                                    "publicaciones": [
+                                        {
+                                            "ordinal": 1,
+                                            "fuente": ["TDJMP","POTS"],
+                                            "soporte": "SBOB",
+                                            "duracion": "1:44"
+                                        }
+                                    ]                                    
+                                }
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "Baby, Let's Play House",
+                            "items" : [
+                                {
+                                    "ordinal": 1,                                
+                                    "rec": "M",
+                                    "origen": "Molyneux Tape",
+                                    "publicaciones": [
+                                        {
+                                            "ordinal": 1,
+                                            "fuente": [],
+                                            "soporte": "KKAK",
+                                            "duracion": "0:20"
+                                        }
+                                    ]                                    
+                                },
+                                {
+                                    "ordinal": 2,                                
+                                    "rec": "M",
+                                    "origen": "Molyneux Tape",
+                                    "publicaciones": [
+                                        {
+                                            "ordinal": 1,
+                                            "fuente": ["TDJMP"],
+                                            "soporte": "SBOB",
+                                            "duracion": "0:27"
+                                        }
+                                    ]                                    
+                                }
+                            ]
+                        }
+                    ]
+                },            
+                {
+                    "ordinal": 2,
+                    "indice": "58",
+                    "titulo": "Phillips Sound Recording",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "That'll Be The Day",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "In Spite Of All The Danger",
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 3,
+                    "indice": "60",
+                    "subindice": "2",
+                    "titulo": "Kirchherr Tapes",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Instrumental #1",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "Instrumental #2",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 3,
+                            "titulo": "Instrumental #2 (Turn The Switches Off)",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 4,
+                            "titulo": "Cayenne Pepper",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 5,
+                            "titulo": "Come On People (That's An Important Number)",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 6,
+                            "titulo": "I Don't Need No Cigarette Boy",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 7,
+                            "titulo": "Well Darling",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 8,
+                            "titulo": "I Don't Know",
+                            "items" : [                                
+                            ]
+                        }                        
+                    ]
+                },
+                {
+                    "ordinal": 4,
+                    "indice": "60",
+                    "subindice": "1",
+                    "titulo": "Braun Tapes",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Hallelujah, I Love Her So",
+                            "version": "intro (fragment)",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "Hallelujah, I Love Her So",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 3,
+                            "titulo": "One After 909 #1",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 4,
+                            "titulo": "Moovin' And Groovin'",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 5,
+                            "titulo": "Ramrod",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 6,
+                            "titulo": "Instrumental #1 (Electric Jam)",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 7,
+                            "titulo": "You'll Be Mine",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 8,
+                            "titulo": "Unknown Song",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 9,
+                            "titulo": "Matchbox",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 10,
+                            "titulo": "I Will Always Be In Love With You",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 11,
+                            "titulo": "The World Is Waiting For The Sunrise",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 12,
+                            "titulo": "That's When your Heartaches Begin",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 13,
+                            "titulo": "Instrumental #1 (That's The End)",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 14,
+                            "titulo": "Wild Cat #1",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 15,
+                            "titulo": "One After 909 #2",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 16,
+                            "titulo": "Some Days",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 17,
+                            "titulo": "You Must Write Every Day",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 18,
+                            "titulo": "John Talking",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 19,
+                            "titulo": "I'll Follow The Sun",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 20,
+                            "titulo": "Hello Little Girl",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 21,
+                            "titulo": "Wild Cat #2",
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "ordinal": 5,
+                    "indice": "61",                    
+                    "titulo": "Tony Sheridan Friedrich Ebert Halle",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "My Bonnie",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "The Saints",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 3,
+                            "titulo": "Why",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "Cry For A Shadow",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "Ain't She Sweet",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "Take Out Some Insurance For Me",
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "Nobody's Child",
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 6,
+                    "indice": "62",  
+                    "subindice": "1",                  
+                    "titulo": "Decca Audition Tape",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Money",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "The Sheik Of Araby",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 3,
+                            "titulo": "Memphis, Tennessee",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 4,
+                            "titulo": "Three Cool Cats",                            
+                            "items" : [                                
+                            ]
+                        },                        
+                        {
+                            "ordinal": 5,
+                            "titulo": "Sure To Fall (In Love With You)",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 6,
+                            "titulo": "September In The Rain",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 7,
+                            "titulo": "Take Good Care Of My Baby",                            
+                            "items" : [                                
+                            ]
+                        },                        
+                        {
+                            "ordinal": 8,
+                            "titulo": "Till There Was You",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 9,
+                            "titulo": "Crying, Waiting, Hoping",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 10,
+                            "titulo": "To Know Her Is To Love Her",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 11,
+                            "titulo": "Besame Mucho",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 12,
+                            "titulo": "Searchin'",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 13,
+                            "titulo": "Like Dreamers Do",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 14,
+                            "titulo": "Love Of The Loved",                            
+                            "items" : [                                
+                            ]
+                        },                        
+                        {
+                            "ordinal": 16,
+                            "titulo": "Hello Little Girl",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 17,
+                            "titulo": "Decca Medley",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 7,
+                    "indice": "62",  
+                    "subindice": "3",                  
+                    "titulo": "BBC Here We Go",
+                    "fecha": "07/03/1962",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Dream Baby",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "Memphis, Tennessee",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 1,
+                            "titulo": "Please Mister Postman",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]                    
+                },
+                {
+                    "ordinal": 8,
+                    "indice": "62",  
+                    "subindice": "3",                  
+                    "titulo": "Tony Sheridan Studio Rahlstedt",
+                    "fecha": "24/05/1962",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Sweet Georgia Brown",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]                    
+                },                
+                {
+                    "ordinal": 9,
+                    "indice": "62",  
+                    "subindice": "5",                  
+                    "titulo": "Parlophone Artist Test",
+                    "fecha": "06/06/1962",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Besame Mucho",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 1,
+                            "titulo": "Love Me Do",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 10,
+                    "indice": "62",  
+                    "subindice": "5",                  
+                    "titulo": "BBC - Here We Go",
+                    "fecha": "11/06/1962",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Ask Me Why",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "Besame Mucho",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 3,
+                            "titulo": "A Picture Of You",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 11,
+                    "indice": "62",  
+                    "subindice": "5",                  
+                    "titulo": "Granada TV",
+                    "fecha": "22/08/1962",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Some Other Gut",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 12,
+                    "indice": "62",  
+                    "subindice": "4",                  
+                    "titulo": "EMI Sessions How Do You Do It / Love Me Do",
+                    "fecha": "04/09/1962",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "How Do You Do It",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 1,
+                            "titulo": "Love Me Do",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 13,
+                    "indice": "62",  
+                    "subindice": "4",                  
+                    "titulo": "Granada TV",
+                    "fecha": "05/09/1962",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Kansas City",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "Some Other Guy",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 14,
+                    "indice": "62",  
+                    "subindice": "7",                  
+                    "titulo": "EMI Sessions Love Me Do / P.S. I Love You",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Love Me Do",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "P.S. I Love You",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 3,
+                            "titulo": "Please Please Me",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 15,
+                    "indice": "62",  
+                    "subindice": "7",                  
+                    "titulo": "Cavern Club Rehearsal Tape",
+                    "fecha": "??/10/1962",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "I Saw Her Standing There",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "One After 909 #1",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 3,
+                            "titulo": "One After 909 #2",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 4,
+                            "titulo": "Catswalk #1",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 5,
+                            "titulo": "Catswalk #2",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 16,
+                    "indice": "62",  
+                    "subindice": "7",                  
+                    "titulo": "Granada TV",
+                    "fecha": "17/10/1962",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Love Me Do",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "Some Other Guy",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 17,
+                    "indice": "62",  
+                    "subindice": "7",                  
+                    "titulo": "Granada TV",
+                    "fecha": "29/10/1962",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "A Taste Of Honey (part 1)",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "A Taste Of Honey (part 2)",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 18,
+                    "indice": "62",  
+                    "subindice": "7",                  
+                    "titulo": "EMI Sesssions Please Please Me / Ask Me Why",
+                    "fecha" : "26/11/1962",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Please Please Me",                            
+                            "items" : [                                
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "titulo": "Ask Me Why",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 19,
+                    "indice": "62",  
+                    "subindice": "8",                  
+                    "titulo": "Granada TV",
+                    "fecha": "11/12/1962",
+                    "canciones" : [
+                        {
+                            "ordinal": 1,
+                            "titulo": "Twist and Shout",                            
+                            "items" : [                                
+                            ]
+                        }
+                    ]
+                },
+
+                {
+                    "ordinal": 20,
+                    "indice": "62",  
+                    "subindice": "8",                  
+                    "titulo": "Star Club Set B"
+                },
+                {
+                    "ordinal": 21,
+                    "indice": "62",  
+                    "subindice": "9",                  
+                    "titulo": "Star Club 31 December"
+                }
+            ]
+        },
+        
+        
+        
+        
+        
+        
+        
+       
+      
+        
+        
+        
+        {
+            "ordinal": 2,
+            "titulo": "Beatlemania I",
+            "leyenda": "Studio & Home Recordings 1963",
+            "subcapitulos": [
+                {
+                    "ordinal": 1,
+                    "indice": "63",
+                    "subindice": "1",                  
+                    "titulo": "Please Please Me",
+                    "canciones" : [
+                        {
+                          
+                        },
+                        {
+                          
+                        }
+                    ]
+                },            
+                {
+                    "ordinal": 2,
+                    "indice": "63",
+                    "subindice": "2",                  
+                    "titulo": "From Me To You - Thank you Girl"
+                },            
+                {
+                    "ordinal": 3,
+                    "indice": "63",
+                    "subindice": "3",                  
+                    "titulo": "She Loves You / I'll Get You"
+                },            
+                {
+                    "ordinal": 4,
+                    "indice": "63",
+                    "subindice": "4",                  
+                    "titulo": "Weston Tapes"
+                },            
+                {
+                    "ordinal": 5,
+                    "indice": "63",
+                    "subindice": "5",                  
+                    "titulo": "With The Beatles"
+                },            
+                {
+                    "ordinal": 6,
+                    "indice": "63",
+                    "subindice": "6",                  
+                    "subsubindice": "1",
+                    "titulo": "Alf Bicknell Tapes (Paul)"
+                },            
+                {
+                    "ordinal": 6,
+                    "indice": "63",
+                    "subindice": "6",                  
+                    "subsubindice": "2",
+                    "titulo": "Alf Bicknell Tapes (Paul & John)"
+                },                            
+                {
+                    "ordinal": 6,
+                    "indice": "63",
+                    "subindice": "7",                                      
+                    "titulo": "I Want To Hold Your Hand / This Boy"
+                }
+            ]
+        },
+        {
+            "ordinal": 3,
+            "titulo": "Beatlemania II",
+            "leyenda": "Studio & Home Recordings 1964",
+            "subcapitulos": [
+
+            ]
+        },
+        {
+            "ordinal": 4,
+            "titulo": "Beatlemania III",
+            "leyenda": "Studio & Home Recordings 1965",
+            "subcapitulos": [
+
+            ]
+        },
+        {
+            "ordinal": 5,
+            "titulo": "Psychedelia I",
+            "leyenda": "Studio & Home Recordings 1966",
+            "subcapitulos": [
+
+            ]
+        },
+        {
+            "ordinal": 6,
+            "titulo": "Psychedelia II",
+            "leyenda": "Studio & Home Recordings 1967",
+            "subcapitulos": [
+
+            ]
+        },
+        {
+            "ordinal": 7,
+            "titulo": "White Album",
+            "leyenda": "Studio & Home Recordings 1968",
+            "subcapitulos": [
+
+            ]
+        },
+        {
+            "ordinal": 8,
+            "titulo": "Twickenham",
+            "leyenda": "Studio Recordings 1969 02-16 Jan",
+            "subcapitulos": [
+
+            ]
+        },
+        {
+            "ordinal": 9,
+            "titulo": "Apple",
+            "leyenda": "Studio Recordings 1969 21-31 Jan",
+            "subcapitulos": [
+
+            ]
+        },
+        {
+            "ordinal": 10,
+            "titulo": "Afterglow",
+            "leyenda": "Studio & Home Recordings 1969 Feb-Dec",
+            "subcapitulos": [
+
+            ]
+        },
+        {
+            "ordinal": 11,
+            "titulo": "Aftermath I",
+            "leyenda": "Studio & Home Recordings 1970",
+            "subcapitulos": [
+
+            ]
+        },
+        {
+            "ordinal": 12,
+            "titulo": "Aftermath II",
+            "leyenda": "Studio & Home Recordings 1971 Jan-June",
+            "subcapitulos": [
+
+            ]
+        },
+        {
+            "ordinal": 11,
+            "titulo": "Together Again",
+            "leyenda": "'REUNIONS' Recordings 1971-2019",
+            "subcapitulos": [
+
+            ]
+        }
+    ]
+}
