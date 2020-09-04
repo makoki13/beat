@@ -729,33 +729,303 @@
                         }
                     ]
                 },
-
                 {
                     "ordinal": 20,
                     "indice": "62",  
                     "subindice": "8",                  
-                    "titulo": "Star Club Set B"
-                },
-                {
-                    "ordinal": 21,
-                    "indice": "62",  
-                    "subindice": "9",                  
-                    "titulo": "Star Club 31 December"
+                    "titulo": "Star Club",
+                    "fecha": "??/12/1962",
+                    "sets" : [
+                        {
+                            "ordinal": 1,
+                            "indice": "B",
+                            "fecha": "?18-22/12/1962",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "Sheila",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 2,
+                                    "titulo": "Kansas City / Hey! Hey! Hey! Hey!",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 3,
+                                    "titulo": "Shimmy Like Kate",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 4,
+                                    "titulo": "Reminiscing",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 5,
+                                    "titulo": "Red Sails In The Sunset",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 6,
+                                    "titulo": "Sweet Little Sixteen",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 7,
+                                    "titulo": "Roll Over Beethoven",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 8,
+                                    "titulo": "A Taste Of Honey",
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "indice": "C",
+                            "fecha": "25/12/1962",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "Nothin' Shakin'",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 2,
+                                    "titulo": "I Saw Her Standing There #2",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 3,
+                                    "titulo": "To Know Her Is To Love Her",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 4,
+                                    "titulo": "Everybody's trying To Be My Baby",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 5,
+                                    "titulo": "Till There Was You",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 6,
+                                    "titulo": "Where Have You Been All My Life",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 7,
+                                    "titulo": "Lend Me Your Comb",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 8,
+                                    "titulo": "Your Feet's Too Big",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 9,
+                                    "titulo": "I'm Talking About You #2",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 10,
+                                    "titulo": "A Taste Of Honey #2",
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ordinal": 3,
+                            "indice": "F",
+                            "fecha": "25/12/1962?",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "Matchbox",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 2,
+                                    "titulo": "Little Queenie",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 3,
+                                    "titulo": "Roll Over Beethoven #2",
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ordinal": 4,
+                            "indice": "A",
+                            "fecha": "31/12/1962?",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "Be Bop A Lula",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 2,
+                                    "titulo": "I Saw Her Standing There #1",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 3,
+                                    "titulo": "Hallelujah, I Love Her So",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 4,
+                                    "titulo": "Red Hot",
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ordinal": 5,
+                            "indice": "E",
+                            "fecha": "31/12/1962?",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "Road Runner",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 2,
+                                    "titulo": "The Hippy Hippy Shake",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 3,
+                                    "titulo": "A Taste Of Honey #3",
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ordinal": 6,
+                            "indice": "H",
+                            "fecha": "31/12/1962?",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "I Remember You",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 2,
+                                    "titulo": "Ask Me Why",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 3,
+                                    "titulo": "Besame Mucho",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 4,
+                                    "titulo": "Mr. Moonlight",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 5,
+                                    "titulo": "Falling In Love Again",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 6,
+                                    "titulo": "I'm Gonna Sit Right Down And Cry",
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ordinal": 7,
+                            "indice": "I",
+                            "fecha": "31/12/1962?",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "I'm Talking About You #1",
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ordinal": 8,
+                            "indice": "K",
+                            "fecha": "??/12/1962",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "Long Tall Sally",
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ordinal": 9,
+                            "indice": "?",
+                            "fecha": "??/12/1962",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "Twist And Shout",
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
-        
-        
-        
-        
-        
-        
-        
-       
-      
-        
-        
-        
+         
         {
             "ordinal": 2,
             "titulo": "Beatlemania I",
@@ -766,61 +1036,642 @@
                     "indice": "63",
                     "subindice": "1",                  
                     "titulo": "Please Please Me",
+                    "fecha": "11/02/1963",
                     "canciones" : [
-                        {
-                          
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "There's A Place",                            
+                            "items" : [                                
+                            ]                        
                         },
-                        {
-                          
-                        }
+                        {                            
+                            "ordinal": 2,
+                            "titulo": "I Saw Her Standing There",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 3,
+                            "titulo": "A Taste Of Honey",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 4,
+                            "titulo": "Do You Want To Know A Secret",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 5,
+                            "titulo": "Chains",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 6,
+                            "titulo": "Baby It's You",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 7,
+                            "titulo": "Anna (Go To Him)",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 8,
+                            "titulo": "Boys",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 9,
+                            "titulo": "Misery",                            
+                            "items" : [                                
+                            ]                        
+                        },                        
+                        {                            
+                            "ordinal": 10,
+                            "titulo": "Twist And Shout",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 11,
+                            "titulo": "Studio Chat",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 12,
+                            "titulo": "Please Please Me Medley",                            
+                            "items" : [                                
+                            ]                        
+                        }                        
                     ]
                 },            
                 {
                     "ordinal": 2,
                     "indice": "63",
                     "subindice": "2",                  
-                    "titulo": "From Me To You - Thank you Girl"
+                    "titulo": "From Me To You - Thank you Girl",
+                    "fecha": "05/03/1963",
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "From Me To You",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 2,
+                            "titulo": "One After 909",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 3,
+                            "titulo": "Thank you Girl",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "From Me To You",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
                 },            
                 {
                     "ordinal": 3,
                     "indice": "63",
-                    "subindice": "3",                  
-                    "titulo": "She Loves You / I'll Get You"
-                },            
+                    "subindice": "2",                  
+                    "titulo": "At The BBC",
+                    "fecha": "04/04/1963",
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "I'll Be On My Way",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
+                },
                 {
                     "ordinal": 4,
                     "indice": "63",
-                    "subindice": "4",                  
-                    "titulo": "Weston Tapes"
-                },            
+                    "subindice": "2",                  
+                    "titulo": "John Demo (Bad To Me)",
+                    "fecha": "??/05/1963",
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "Bad To Me",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
+                },
                 {
                     "ordinal": 5,
                     "indice": "63",
+                    "subindice": "3",                  
+                    "titulo": "She Loves You / I'll Get You",
+                    "fecha": "01/07/1963",
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "She Loves You",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 2,
+                            "titulo": "I'll Get You",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
+                },            
+                {
+                    "ordinal": 6,
+                    "indice": "63",
+                    "subindice": "4",                  
+                    "titulo": "Weston Tapes",
+                    "fecha": "15/07/1963",
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "Dialogue (with music in the hi-fi)",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 2,
+                            "titulo": "Unintelligible, distorted speech",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
+                },            
+                {
+                    "ordinal": 7,
+                    "indice": "63",
                     "subindice": "5",                  
-                    "titulo": "With The Beatles"
+                    "titulo": "With The Beatles",
+                    "fecha": "18/07/1963",
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "You Really Got A Hold On Me",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 2,
+                            "titulo": "Devil In Her Heart",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 3,
+                            "titulo": "Money",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 4,
+                            "titulo": "Plase Mr Postman",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 5,
+                            "titulo": "It Won't Be Long",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 6,
+                            "titulo": "Till There Was You",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 7,
+                            "titulo": "Roll Over Beethoven",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 8,
+                            "titulo": "Don't Bother Me",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 9,
+                            "titulo": "All My Loving",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 10,
+                            "titulo": "All I've Got To Do",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 11,
+                            "titulo": "Not A Second Time",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 12,
+                            "titulo": "I Wanna Be Your Man",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 13,
+                            "titulo": "Hold Me Tight",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 14,
+                            "titulo": "Little Child",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 15,
+                            "titulo": "Piano and Drums Instrumental Jam",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 8,
+                    "indice": "63",
+                    "subindice": "4",                  
+                    "titulo": "Private Tapes",
+                    "fecha": "??/08/1963",
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "Mary, Mary Quite Contrary",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
+                },              
+                {
+                    "ordinal": 8,
+                    "indice": "63",
+                    "subindice": "4",                  
+                    "titulo": "Alf Bicknell Tapes",
+                    "fecha": "??/08/1963",
+                    "sets" : [
+                        {
+                            "ordinal": 1,
+                            "indice": "The Weston Tapes",
+                            "fecha": "?22-27/07/1963",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "The Bible bit (Reading 1 Kings 17-18)",
+                                    "lugar": "Royal Pier Hotel, Weston-Super-Mare",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 2,
+                                    "titulo": "The Bible bit (Singing Psalms 23-24)",
+                                    "lugar": "Royal Pier Hotel, Weston-Super-Mare",
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 3,
+                                    "titulo": "Asking Directions (complete Tape)",
+                                    "lugar": "Various locations, Weston-Super-Mare",
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ordinal": 2,
+                            "indice": "John & Paul #1",
+                            "fecha": "?/07/1963",
+                            "lugar": "20 Forthlin Road, Liverpool",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "Fragment",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 2,
+                                    "titulo": "Tammy",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 3,
+                                    "titulo": "Over The Rainbow",                                    
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ordinal": 3,
+                            "indice": "Paul on acoustic guitar",
+                            "fecha": "?/07/1963",
+                            "lugar": "20 Forthlin Road, Liverpool",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "Instrumental #1",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 2,
+                                    "titulo": "Instrumental #2",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 3,
+                                    "titulo": "Michelle",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 4,
+                                    "titulo": "Instrumental #3",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 5,
+                                    "titulo": "Instrumental #4",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 6,
+                                    "titulo": "Instrumental #5",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 7,
+                                    "titulo": "Three Coins In A Fountain",                                    
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ordinal": 4,
+                            "indice": "John & Paul #2",
+                            "fecha": "?/07/1963",
+                            "lugar": "20 Forthlin Road, Liverpool",
+                            "canciones": [
+                                {
+                                    "ordinal": 1,
+                                    "titulo": "Fragment",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 2,
+                                    "titulo": "Rockin' And Rollin (basic take)",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 3,
+                                    "titulo": "Fragment",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 4,
+                                    "titulo": "Rockin' And Rollin (trumpet overdub)",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 5,
+                                    "titulo": "Fragment (trumpet + 2nd. guitar)",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 6,
+                                    "titulo": "False start",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 7,
+                                    "titulo": "Rockin' And Rollin (trumpet overdub + 3rd. guitar)",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 8,
+                                    "titulo": "Fragment",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 8,
+                                    "titulo": "Rockin' And Rollin (vocal overdub)",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 9,
+                                    "titulo": "Rockin' And Rollin (stereo reconstruction)",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 10,
+                                    "titulo": "Radio play",                                    
+                                    "items" : [                                
+                                    ]
+                                },
+                                {
+                                    "ordinal": 11,
+                                    "titulo": "Fragment",                                    
+                                    "items" : [                                
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 9,
+                    "indice": "63",
+                    "subindice": "4",                  
+                    "titulo": "George home Recording (Don't Bother Me)",
+                    "fecha": "19-24/08/1963",
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "Don't Bother Me",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
                 },            
                 {
-                    "ordinal": 6,
+                    "ordinal": 10,
                     "indice": "63",
-                    "subindice": "6",                  
-                    "subsubindice": "1",
-                    "titulo": "Alf Bicknell Tapes (Paul)"
-                },            
+                    "subindice": "6",                                      
+                    "titulo": "Christmas Messages To Australia",
+                    "fecha": "18/07/1963",
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "Christmas Messages To Australia",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 2,
+                            "titulo": "Open Message To Australia",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
+                },
                 {
-                    "ordinal": 6,
+                    "ordinal": 11,
                     "indice": "63",
-                    "subindice": "6",                  
-                    "subsubindice": "2",
-                    "titulo": "Alf Bicknell Tapes (Paul & John)"
-                },                            
+                    "subindice": "6",                                      
+                    "titulo": "John Home Tape",
+                    "fecha": "??/09/1963",
+                    "lugar": "John's Home",
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "John tapes Julian & Cinthia",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 2,
+                            "titulo": "Cynthia and Dot (reading fan mail)",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 3,
+                            "titulo": "Cynthia 'The Clinic'",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
+                },
                 {
-                    "ordinal": 6,
+                    "ordinal": 12,
+                    "indice": "63",
+                    "subindice": "6",                                      
+                    "titulo": "John Demo (I'm In Love)",
+                    "fecha": "??/10/1963",                    
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "I'm In Love",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 13,
+                    "indice": "63",
+                    "subindice": "6",                                      
+                    "titulo": "Paul Demo (A World Without Love)",
+                    "fecha": "??/10/1963",                    
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "A World Without Love",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 14,
                     "indice": "63",
                     "subindice": "7",                                      
-                    "titulo": "I Want To Hold Your Hand / This Boy"
+                    "titulo": "I Want To Hold Your Hand / This Boy",
+                    "fecha": "17/10/1963",                    
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "I Want To Hold Your Hand",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 2,
+                            "titulo": "This Boy",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
+                },
+                {
+                    "ordinal": 15,
+                    "indice": "63",
+                    "subindice": "7",                                      
+                    "titulo": "The Beatles Christmas Record",
+                    "fecha": "17/10/1963",                    
+                    "canciones" : [
+                        {                            
+                            "ordinal": 1,
+                            "titulo": "Christmas Record 1963",                            
+                            "items" : [                                
+                            ]                        
+                        },
+                        {                            
+                            "ordinal": 2,
+                            "titulo": "Christmas 1963 ITV News Interview",                            
+                            "items" : [                                
+                            ]                        
+                        }
+                    ]
                 }
             ]
         },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
         {
             "ordinal": 3,
             "titulo": "Beatlemania II",
