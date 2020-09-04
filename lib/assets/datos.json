@@ -1628,7 +1628,36 @@
                         {                            
                             "ordinal": 1,
                             "titulo": "I Want To Hold Your Hand",                            
-                            "items" : [                                
+                            "items" : [ 
+                                {
+                                    "ordinal": 1,
+                                    "rec": "M",
+                                    "nombre": "RM1",
+                                    "origen": "T17",
+                                    "publicaciones":[
+                                        {
+                                            "ordinal": 1,
+                                            "fuente": [
+                                                { "id": "R 5084", "side": "A"}
+                                            ]
+                                        },
+                                        {
+                                            "ordinal": 2,
+                                            "fuente": [
+                                                { "id": "5112", "side": "A"}
+                                            ]
+                                        },
+                                        {
+                                            "ordinal": 1,
+                                            "fuente": [
+                                                { "id": "T 2047", "side": "A1"}
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "ordinal": 2
+                                }                               
                             ]                        
                         },
                         {                            
@@ -1680,6 +1709,16 @@
 
             ]
         },
+
+
+
+
+
+
+
+
+
+
         {
             "ordinal": 4,
             "titulo": "Beatlemania III",

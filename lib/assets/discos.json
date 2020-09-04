@@ -1,0 +1,28 @@
+{
+    "discos" : [
+        {
+            "ordinal": 1,
+            "id": "R 5084",
+            "label": "R 5084",
+            "nombre": "I Want To Hold Your Hand / This Boy",
+            "mezcla": "Mono",
+            "discografica": "Parlophone"
+        },
+        {
+            "ordinal": 2,
+            "id": "5112",
+            "label": "5112",
+            "nombre": "I Want To Hold Your Hand / This Boy",
+            "mezcla": "Mono",
+            "discografica": "Capitol"
+        },
+        {
+            "ordinal": 3,
+            "id": "T 2047",
+            "label": "T 2047",
+            "nombre": "Meet The Beatles",
+            "mezcla": "Mono",
+            "discografica": "Capitol"
+        }
+    ]
+}
